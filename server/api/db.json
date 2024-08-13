@@ -1,0 +1,199 @@
+{
+    "cars": [
+        {
+            "brand": "Chevrolet",
+            "model": "Corvette C6",
+            "color": "Red",
+            "body-style": "Coupe",
+            "transmission": "Manual",
+            "engine": "V8 Aspirated",
+            "drive-type": "RWD (Rear Wheel Drive)",
+            "year": 2011,
+            "price": 1500,
+            "images": [
+                "/images/c6-vette.jpeg",
+                "/images/c6-vette(2).jpeg"
+            ]
+        },
+        {
+            "brand": "Chevrolet",
+            "model": "Corvette C7 ZR1",
+            "color": "Red",
+            "body-style": "Coupe",
+            "transmission": "Manual",
+            "engine": "V8 Aspirated",
+            "drive-type": "RWD (Rear Wheel Drive)",
+            "year": 2016,
+            "price": 1500,
+            "images": [
+                "/images/c7-zr1.jpeg",
+                "/images/c7-zr1(2).jpeg"
+            ]
+        },
+        {
+            "brand": "Chevrolet",
+            "model": "Corvette C8",
+            "color": "Dark blue",
+            "body-style": "Coupe",
+            "transmission": "Manual",
+            "engine": "V8 Aspirated",
+            "drive-type": "RWD (Rear Wheel Drive)",
+            "year": 2023,
+            "price": 1500,
+            "images": [
+                "/images/c8-vette.jpeg",
+                "/images/c8-vette(2).jpeg"
+            ]
+        },
+        {
+            "brand": "Porsche",
+            "model": "911 Carrera",
+            "color": "Yellow",
+            "body-style": "Coupe",
+            "transmission": "Automatic",
+            "engine": "6 cyl turbo",
+            "drive-type": "RWD (Rear Wheel Drive)",
+            "year": 2020,
+            "price": 3000,
+            "images": [
+                "/images/911-carrera.jpeg",
+                "/images/911-carrera(2).jpeg"
+            ]
+        },
+        {
+            "brand": "Porsche",
+            "model": "911 Carrera S",
+            "color": "Blue",
+            "body-style": "Coupe",
+            "transmission": "Automatic",
+            "engine": "6 cyl turbo",
+            "drive-type": "RWD (Rear Wheel Drive)",
+            "year": 2021,
+            "price": 2500,
+            "images": [
+                "/images/carrera-s.jpeg",
+                "/images/carrera-s(2).jpeg"
+            ]
+        },
+        {
+            "brand": "Dodge",
+            "model": "Challenger R/T",
+            "color": "Grey",
+            "body-style": "Coupe",
+            "transmission": "Automatic",
+            "engine": "V6",
+            "drive-type": "RWD (Rear Wheel Drive)",
+            "year": 2018,
+            "price": 1800,
+            "images": [
+                "/images/challenger-rt.jpeg",
+                "/images/challenger-rt(2).jpeg"
+            ]
+        },
+        {
+            "brand": "Dodge",
+            "model": "Challenger SRT",
+            "color": "Grey",
+            "body-style": "Coupe",
+            "transmission": "Automatic",
+            "engine": "V8 Supercharged",
+            "drive-type": "RWD (Rear Wheel Drive)",
+            "year": 2019,
+            "price": 2900,
+            "images": [
+                "/images/challenger-srt.jpeg",
+                "/images/challenger-srt(2).jpeg"
+            ]
+        },
+        {
+            "brand": "Toyota",
+            "model": "Supra GR",
+            "color": "Dark grey",
+            "body-style": "Coupe",
+            "transmission": "Manual",
+            "engine": "V6 Turbo",
+            "drive-type": "RWD (Rear Wheel Drive)",
+            "year": 2018,
+            "price": 3000,
+            "images": [
+                "/images/supra-gr.jpeg",
+                "/images/supra-gr(2).jpeg"
+            ]
+        },
+        {
+            "brand": "Acura",
+            "model": "NSX",
+            "color": "Blue",
+            "body-style": "Coupe",
+            "transmission": "Automatic",
+            "engine": "V6 Turbo",
+            "drive-type": "RWD (Rear Wheel Drive)",
+            "year": 2017,
+            "price": 3000,
+            "images": [
+                "/images/acura-nsx.jpeg",
+                "/images/acura-nsx(2).jpeg"
+            ]
+        },
+        {
+            "brand": "McLaren",
+            "model": "570s",
+            "color": "Light Blue",
+            "body-style": "Coupe",
+            "transmission": "Automatic",
+            "engine": "V8 Aspirated",
+            "drive-type": "AWD (All Wheel Drive)",
+            "year": 2015,
+            "price": 4000,
+            "images": [
+                "/images/570s.jpeg",
+                "/images/570s(2).jpeg"
+            ]
+        },
+        {
+            "brand": "Audi",
+            "model": "A6 Luxury",
+            "color": "White",
+            "body-style": "Coupe",
+            "transmission": "Automatic",
+            "engine": "4 cyl",
+            "drive-type": "RWD (Rear Wheel Drive)",
+            "year": 2022,
+            "price": 1800,
+            "images": [
+                "/images/a5-luxury.jpeg",
+                "/images/a5-luxury(2).jpeg"
+            ]
+        },
+        {
+            "brand": "BMW",
+            "model": "M4 Competition xDrive",
+            "color": "Orange",
+            "body-style": "Coupe",
+            "transmission": "Manual",
+            "engine": "6 cyl Trubo",
+            "drive-type": "RWD (Rear Wheel Drive)",
+            "year": 2020,
+            "price": 3500,
+            "images": [
+                "/images/m4-comp.jpeg",
+                "/images/m4-comp(2).jpeg"
+            ]
+        },
+        {
+            "brand": "Ferrari",
+            "model": "F8 Tributo",
+            "color": "Yellow",
+            "body-style": "Coupe",
+            "transmission": "Automatic",
+            "engine": "V8 Aspirated",
+            "drive-type": "RWD (Rear Wheel Drive)",
+            "year": 2021,
+            "price": 5700,
+            "images": [
+                "/images/f8-tributo.jpeg",
+                "/images/f8-tributo(2).jpeg"
+            ]
+        }
+    ]
+}
